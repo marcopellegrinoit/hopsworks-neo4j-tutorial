@@ -1,1 +1,4 @@
+hopsworks
+pandas
 graphdatascience
+great_expectations
