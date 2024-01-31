@@ -2,3 +2,7 @@ hopsworks
 pandas
 graphdatascience
 great_expectations
+scikit-learn
+tensorflow
+hsfs
+joblib
